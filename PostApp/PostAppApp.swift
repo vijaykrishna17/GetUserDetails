@@ -2,7 +2,7 @@
 //  PostAppApp.swift
 //  PostApp
 //
-//  Created by Trianz on 06/07/1944 Saka.
+//  Created by Vijay on 06/07/1944 Saka.
 //
 
 import SwiftUI
